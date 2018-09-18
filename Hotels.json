@@ -1,0 +1,29 @@
+[
+  {
+ 
+    "Id": "1",
+    "Name": "Royal Orchid Central",
+    "Address": "Pune",
+    "Ratings": "4"
+  },
+  {
+    "Id": "2",
+    "Name": "Hotel Studio Estique",
+    "Address": "Pune",
+    "Ratings": "3"
+  },
+  {
+    "Id": "3",
+    "Name": "FabHotel Gandharva, Shivajinagar",
+    "Address": "Pune",
+    "Ratings": "4"
+  },
+  {
+    "Id": "4",
+    "Name": "Novotel",
+    "Address": "Pune",
+    "Ratings": "4"
+  }
+ 
+]
+ 

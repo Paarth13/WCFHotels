@@ -1,0 +1,9 @@
+C:\Users\pvashisht\source\repos\WcfHotels\HotelsWcf\bin\Debug\HotelsWcf.exe.config
+C:\Users\pvashisht\source\repos\WcfHotels\HotelsWcf\bin\Debug\HotelsWcf.exe
+C:\Users\pvashisht\source\repos\WcfHotels\HotelsWcf\bin\Debug\HotelsWcf.pdb
+C:\Users\pvashisht\source\repos\WcfHotels\HotelsWcf\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pvashisht\source\repos\WcfHotels\HotelsWcf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pvashisht\source\repos\WcfHotels\HotelsWcf\obj\Debug\HotelsWcf.csproj.CoreCompileInputs.cache
+C:\Users\pvashisht\source\repos\WcfHotels\HotelsWcf\obj\Debug\HotelsWcf.csproj.CopyComplete
+C:\Users\pvashisht\source\repos\WcfHotels\HotelsWcf\obj\Debug\HotelsWcf.exe
+C:\Users\pvashisht\source\repos\WcfHotels\HotelsWcf\obj\Debug\HotelsWcf.pdb
